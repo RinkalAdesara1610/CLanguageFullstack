@@ -3,6 +3,6 @@
 void main(){
 	clrscr();
 	printf("Hello");
-	hereury
-	getch();
+printf("dfjkhg");
+	getch12we();
 }
