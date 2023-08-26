@@ -3,5 +3,6 @@
 void main(){
 	clrscr();
 	printf("Hello");
+	hereury
 	getch();
 }
