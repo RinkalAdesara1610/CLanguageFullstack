@@ -3,5 +3,5 @@
 void main(){
 	clrscr();
 	printf("Hello");
-	getch12();
+	getch();
 }
